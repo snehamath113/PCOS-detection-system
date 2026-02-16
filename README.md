@@ -1,2 +1,2 @@
 # PCOS-detection-system
-web application
+machine learning
